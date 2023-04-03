@@ -1,6 +1,6 @@
-package com.example.VideoCollection.model.dto;
+package com.example.videocollection.model.dto;
 
-import com.example.VideoCollection.model.entity.Video;
+import com.example.videocollection.model.entity.Video;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
